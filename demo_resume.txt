@@ -1,0 +1,6 @@
+DEMONSTRATION RESUME — fictional, not a real applicant
+Computer science undergraduate interested in software engineering and data analysis.
+Skills: Python, Java, SQL, data structures, algorithms, statistics, Git, Linux,
+teamwork, communication, documentation, and customer service.
+Projects: Built Python scripts to clean data and visualize results; wrote Java
+programs using object-oriented programming and unit testing.
