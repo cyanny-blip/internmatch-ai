@@ -27,7 +27,12 @@ st.markdown("""
 <style>
     .block-container { padding-top: 2rem; max-width: 1220px; }
     h1, h2, h3 { letter-spacing: -0.02em; }
-    [data-testid="stMetric"] {
+    [data-testid="stMetric"]
+    
+[data-testid="stMetric"] * {
+    color: #f8fafc !important;
+}
+{
         background: #172337; border: 1px solid #263954;
         padding: 1rem; border-radius: 14px;
     }
@@ -37,7 +42,12 @@ st.markdown("""
         border: 1px solid #2f6570; margin-bottom: 1.3rem;
     }
     .hero small { color: #9bead6; text-transform: uppercase; letter-spacing: .12em; }
-    .hero h1 { margin: .25rem 0; }
+    
+.hero h1 {
+    margin: .25rem 0;
+    color: #ffffff !important;
+}
+
     .hero p { color: #c9d9ea; margin-bottom: 0; }
     .muted { color: #adc4d8; font-size: .92rem; }
 </style>
